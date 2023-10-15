@@ -38,8 +38,11 @@ Incluímos capturas de tela da página de login e da página de cadastro para qu
 
 
 Página de Login
+![Captura de tela 2023-10-15 163614](https://github.com/LeooAndrade/LeooAndrade/assets/121836285/acea1f6f-8b2f-4647-b522-a2032941c945)
 
 Página de Cadastro
+![Captura de tela 2023-10-15 163651](https://github.com/LeooAndrade/LeooAndrade/assets/121836285/f399d426-dd25-4cd4-a1c7-44091b10b0d3)
+
 
 Contribuições
 Se desejar contribuir para este projeto, sinta-se à vontade para fazer um fork e enviar suas melhorias por meio de pull requests. Estamos abertos a sugestões e melhorias na interface e no código.
