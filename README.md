@@ -13,8 +13,7 @@ Bem-vindo(a) ao meu perfil no GitHub! Sou um desenvolvedor backend apaixonado po
 ## Projetos Destacados
 
 ### Painel de login e cadastro
-
-(https://github.com/LeooAndrade/Login-Cadastro)(#) - Breve descrição do projeto, recursos e tecnologias utilizadas.
+- Breve descrição do projeto, recursos e tecnologias utilizadas.
 
 
 - HTML
