@@ -54,7 +54,7 @@ Se desejar contribuir para este projeto, sinta-se à vontade para fazer um fork 
 
 ## Como Entrar em Contato
 
-Você pode entrar em contato comigo por e-mail em (loandrade53@gmail.com) ou me seguir no [LinkedIn](https://www.linkedin.com/in/l%C3%A9o-cardoso-de-andrade-814988251/).
+Você pode entrar em contato comigo por e-mail em [e-mail](loandrade53@gmail.com) ou me seguir no [LinkedIn](https://www.linkedin.com/in/l%C3%A9o-cardoso-de-andrade-814988251/).
 
 Fique à vontade para explorar meus repositórios e contribuir, caso tenha interesse em colaborar em algum projeto. Espero que encontre algo útil por aqui!
 
