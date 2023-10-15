@@ -21,7 +21,7 @@ Formulário de Login: Um formulário que permite aos usuários inserir seu nome 
 
 Botão de Login: Um botão que os usuários podem pressionar para enviar os dados de login.
 
-Links de Recuperação de Senha e Cadastro: Links que redirecionam para páginas de recuperação de senha e registro.
+Links de Cadastro: Links que redirecionam para páginas de cadastro.
 
 2. Página de Cadastro
 Formulário de Cadastro: Um formulário onde os novos usuários podem inserir informações pessoais, como nome, email e senha, para criar uma conta.
