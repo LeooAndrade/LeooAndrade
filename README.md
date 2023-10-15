@@ -35,12 +35,18 @@ Para usar esta página de login e cadastro, basta fazer o download dos arquivos 
 
 Demonstração
 Incluímos capturas de tela da página de login e da página de cadastro para que você possa ter uma ideia de como a interface se parece.
-
-
 Página de Login
+
+
 ![Captura de tela 2023-10-15 163614](https://github.com/LeooAndrade/LeooAndrade/assets/121836285/acea1f6f-8b2f-4647-b522-a2032941c945)
 
+
+
 Página de Cadastro
+
+
+
+
 ![Captura de tela 2023-10-15 163651](https://github.com/LeooAndrade/LeooAndrade/assets/121836285/f399d426-dd25-4cd4-a1c7-44091b10b0d3)
 
 
@@ -54,7 +60,7 @@ Se desejar contribuir para este projeto, sinta-se à vontade para fazer um fork 
 
 ## Como Entrar em Contato
 
-Você pode entrar em contato comigo por e-mail em [e-mail](loandrade53@gmail.com) ou me seguir no [LinkedIn](https://www.linkedin.com/in/l%C3%A9o-cardoso-de-andrade-814988251/).
+Você pode entrar em contato comigo por [e-mail](loandrade53@gmail.com) ou me seguir no [LinkedIn](https://www.linkedin.com/in/l%C3%A9o-cardoso-de-andrade-814988251/).
 
 Fique à vontade para explorar meus repositórios e contribuir, caso tenha interesse em colaborar em algum projeto. Espero que encontre algo útil por aqui!
 
