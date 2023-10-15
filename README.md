@@ -16,9 +16,9 @@ Bem-vindo(a) ao meu perfil no GitHub! Sou um desenvolvedor backend apaixonado po
 - Breve descrição do projeto, recursos e tecnologias utilizadas.
 
 
-- HTML[![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
-- CSS[![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## Como Entrar em Contato
 
