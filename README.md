@@ -37,7 +37,7 @@ Incluímos capturas de tela da página de login e da página de cadastro para qu
 Página de Login
 
 
-<img src ="![Captura de tela 2023-10-15 163614](https://github.com/LeooAndrade/LeooAndrade/assets/121836285/acea1f6f-8b2f-4647-b522-a2032941c945)" width="300" height="200>
+![Captura de tela 2023-10-15 163614](https://github.com/LeooAndrade/LeooAndrade/assets/121836285/acea1f6f-8b2f-4647-b522-a2032941c945)
 
 
 
