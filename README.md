@@ -10,6 +10,7 @@ Bem-vindo(a) ao meu perfil no GitHub! Sou um desenvolvedor backend apaixonado po
 - Ansioso para colaborações e aprendizado contínuo
 
 ## Projetos Destacados
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 ### Painel de login e cadastro
 - Conteúdo do Projeto
