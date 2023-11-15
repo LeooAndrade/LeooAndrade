@@ -2,10 +2,11 @@
 
 Bem-vindo(a) ao meu perfil no GitHub! Sou um desenvolvedor backend apaixonado por Node.js, JavaScript e tecnologias da web. Neste repositório, você encontrará alguns dos meus projetos, incluindo um sistema bancário que estou trabalhando atualmente. Estou sempre em busca de aprender e aprimorar minhas habilidades.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
-
 ## Sobre Mim
 
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 - Desenvolvedor Backend
 - Proficiente em JavaScript, HTML e CSS
 - Apaixonado por desafios e resolução de problemas
