@@ -8,6 +8,7 @@ Bem-vindo(a) ao meu perfil no GitHub! Sou um desenvolvedor backend apaixonado po
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 - Desenvolvedor Backend
+- Proficiente em SQL, utilizando POSTGRESQL
 - Proficiente em JavaScript, HTML e CSS
 - Apaixonado por desafios e resolução de problemas
 - Ansioso para colaborações e aprendizado contínuo
