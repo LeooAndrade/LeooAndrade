@@ -1,4 +1,3 @@
-Saudações Dev(a) 👋
 # Léo C. de Andrade - Desenvolvedor Backend
 
 Bem-vindo(a) ao meu perfil no GitHub! Sou um desenvolvedor backend apaixonado por Node.js, JavaScript e tecnologias da web. Neste repositório, você encontrará alguns dos meus projetos, incluindo um sistema bancário que estou trabalhando atualmente. Estou sempre em busca de aprender e aprimorar minhas habilidades.
@@ -38,7 +37,7 @@ Incluímos capturas de tela da página de login e da página de cadastro para qu
 Página de Login
 
 
-![Captura de tela 2023-10-15 163614](https://github.com/LeooAndrade/LeooAndrade/assets/121836285/acea1f6f-8b2f-4647-b522-a2032941c945)
+<img src ="![Captura de tela 2023-10-15 163614](https://github.com/LeooAndrade/LeooAndrade/assets/121836285/acea1f6f-8b2f-4647-b522-a2032941c945)" width="300" height="200>
 
 
 
