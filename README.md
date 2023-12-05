@@ -1,6 +1,6 @@
  ###Saudações DEV :tada:
 
-Desenvolvedor back-end :mortar_board:
+Desenvolvedor back-end :mortar_board:.
 Desenvolvimento de software - foco em back-end :mortar_board:
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/l%C3%A9o-cardoso-de-andrade-814988251/) 
