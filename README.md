@@ -2,14 +2,10 @@
 
 Desenvolvedor back-end
 
-[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/l%C3%A9o-cardoso-de-andrade-814988251/) .
+[https://skillicons.dev/icons?i=all](https://www.linkedin.com/in/l%C3%A9o-cardoso-de-andrade-814988251/) .
 
 ## Sobre Mim
-[https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E]
-[https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white]
-[https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white]
-[https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white]
-
+[![https://skillicons.dev/icons?i=all](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 - 
