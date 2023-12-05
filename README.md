@@ -4,18 +4,18 @@
 
  Desenvolvimento de software - foco em back-end :mortar_board:
 
-## Linkedin:
+ ### Linkedin:
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/l%C3%A9o-cardoso-de-andrade-814988251/) 
 
 
-## Techs  :desktop_computer:
+# Techs  :desktop_computer:
 
 [![My Skills](https://skillicons.dev/icons?i=html,js,ts,nodejs,supabase,postgres,git)](https://skillicons.dev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 
-## Sobre mim: 
+# Sobre mim: 
 
 - :pushpin: Proficiente em SQL, utilizando POSTGRESQL
 - :pushpin:Proficiente em JavaScript,
