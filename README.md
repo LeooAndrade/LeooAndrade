@@ -1,4 +1,4 @@
- ###Saudações DEV :tada:
+ ## Saudações DEV :tada:
 
 Desenvolvedor back-end :mortar_board:
 
@@ -24,7 +24,7 @@ Desenvolvimento de software - foco em back-end :mortar_board:
 
 
 
-###
+
 ## Como Entrar em Contato
 [![My Skills](https://skillicons.dev/icons?i=)](loandrade53@gmail.com):envelope_with_arrow:
 
