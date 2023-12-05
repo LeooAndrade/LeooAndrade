@@ -2,7 +2,7 @@
 
 Desenvolvedor back-end
 
-[![https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg]](https://www.linkedin.com/in/l%C3%A9o-cardoso-de-andrade-814988251/) .
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)](https://www.linkedin.com/in/l%C3%A9o-cardoso-de-andrade-814988251/) .
 
 ## Sobre Mim
 [![My Skills](https://skillicons.dev/icons?i=html,js,nodejs,supabase,postgres,git,aws)](https://skillicons.dev)
