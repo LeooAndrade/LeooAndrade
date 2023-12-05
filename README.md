@@ -2,10 +2,10 @@
 
 Desenvolvedor back-end
 
-[https://skillicons.dev/icons?i=all](https://www.linkedin.com/in/l%C3%A9o-cardoso-de-andrade-814988251/) .
+[](https://www.linkedin.com/in/l%C3%A9o-cardoso-de-andrade-814988251/) .
 
 ## Sobre Mim
-[![https://skillicons.dev/icons?i=all](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?js&perline=3)](https://skillicons.dev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 - 
