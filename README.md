@@ -18,19 +18,19 @@ Desenvolvimento de software - foco em back-end :mortar_board:
 
 ## Sobre mim: 
 
-- Proficiente em SQL, utilizando POSTGRESQL
-- Proficiente em JavaScript,
-- Apaixonado por desafios e resolução de problemas,
-- Adoro o trabalho em equipe,
-- Ansioso para colaborações e aprendizado contínuo.
+- :pushpin: Proficiente em SQL, utilizando POSTGRESQL
+- :pushpin:Proficiente em JavaScript,
+- :pushpin:Apaixonado por desafios e resolução de problemas,
+- :pushpin:Adoro o trabalho em equipe,
+- :pushpin:Ansioso para colaborações e aprendizado contínuo.
 
 
 
 
 ## Como Entrar em Contato: 
 
-- [E-mail: loandrade53@gmail.com](mailto:loandrade53@gmail.com)
-- [Whatsapp](https://wa.me/5521980652513)
+- :email:[E-mail: loandrade53@gmail.com](mailto:loandrade53@gmail.com)
+- 	:calling:[Whatsapp](https://wa.me/5521980652513)
 
 
 
