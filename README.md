@@ -17,11 +17,12 @@
 
 # Sobre mim: 
 
-- :pushpin: Proficiente em SQL, utilizando POSTGRESQL
-- :pushpin:Proficiente em JavaScript,
-- :pushpin:Apaixonado por desafios e resolução de problemas,
-- :pushpin:Adoro o trabalho em equipe,
-- :pushpin:Ansioso para colaborações e aprendizado contínuo.
+- :pushpin: Proficiente em SQL, utilizando POSTGRESQL;
+- :pushpin: Proficiente em JavaScript, Node.js;
+- :pushpin: Aprimorando conhecimento em Typescript;
+- :pushpin: Apaixonado por desafios e resolução de problemas;
+- :pushpin: Adoro o trabalho em equipe;
+- :pushpin: Ansioso para colaborações e aprendizado contínuo.
 
 
 
