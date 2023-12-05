@@ -26,10 +26,10 @@
 
 
 
-## Como Entrar em Contato: 
+# Como Entrar em Contato: 
 
-- :email:[E-mail: loandrade53@gmail.com](mailto:loandrade53@gmail.com)
-- 	:calling:[Whatsapp](https://wa.me/5521980652513)
+- :email: [E-mail: loandrade53@gmail.com](mailto:loandrade53@gmail.com)
+- 	:calling: [Whatsapp](https://wa.me/5521980652513)
 
 
 
