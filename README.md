@@ -7,7 +7,7 @@ Desenvolvimento de software - foco em back-end :mortar_board:
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/l%C3%A9o-cardoso-de-andrade-814988251/) 
 
 
-
+###Techs
 
 [![My Skills](https://skillicons.dev/icons?i=html,js,nodejs,supabase,postgres,git,aws)](https://skillicons.dev)
 
