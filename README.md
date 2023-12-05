@@ -29,7 +29,7 @@ Desenvolvimento de software - foco em back-end :mortar_board:
 
 ## Como Entrar em Contato: 
 
-- [E-mail: loandrade53@gmail.com](loandrade53@gmail.com)
+- [E-mail: loandrade53@gmail.com](mailto:loandrade53@gmail.com)
 - WhatsApp: (+55-21-98065-2513)
 
 
