@@ -30,7 +30,7 @@ Desenvolvimento de software - foco em back-end :mortar_board:
 ## Como Entrar em Contato: 
 
 - [LinkedIn: Clique aqui!](https://www.linkedin.com/in/l%C3%A9o-cardoso-de-andrade-814988251/)
-- [E-mail: loandrade53@gmail.com](mailto:loandrade53@gmail.com)
+- [Gmail: loandrade53@gmail.com](mailto:loandrade53@gmail.com)
 - [WhatsApp: Clique aqui!](https://web.whatsapp.com/+5521980652513)
 
 
