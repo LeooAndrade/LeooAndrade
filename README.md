@@ -11,7 +11,7 @@ Desenvolvimento de software - foco em back-end :mortar_board:
 
 ## Techs  :desktop_computer:
 
-[![My Skills](https://skillicons.dev/icons?i=html,js,ts,nodejs,supabase,postgres,git,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,js,ts,nodejs,supabase,postgres,git)](https://skillicons.dev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
