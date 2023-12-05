@@ -1,28 +1,31 @@
-### Saudações DEV
+:confetti_ball: ### Saudações DEV :confetti_ball:
 
-Desenvolvedor back-end
+Desenvolvedor back-end :mortar_board:
+Desenvolvimento de software - foco em back-end :mortar_board:
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/l%C3%A9o-cardoso-de-andrade-814988251/) 
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/l%C3%A9o-cardoso-de-andrade-814988251/) # Linkedin
 
-## Sobre Mim
+
+
 [![My Skills](https://skillicons.dev/icons?i=html,js,nodejs,supabase,postgres,git,aws)](https://skillicons.dev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
-- 
+
+## Sobre mim: 
+
 - Proficiente em SQL, utilizando POSTGRESQL
-- Proficiente em JavaScript, HTML e CSS
-- Apaixonado por desafios e resolução de problemas
-- Ansioso para colaborações e aprendizado contínuo
+- Proficiente em JavaScript,
+- Apaixonado por desafios e resolução de problemas,
+- Adoro o trabalho em equipe,
+- Ansioso para colaborações e aprendizado contínuo.
 
 
 
 ###
 ## Como Entrar em Contato
+[![My Skills](https://skillicons.dev/icons?i=)](loandrade53@gmail.com):envelope_with_arrow:
 
-Você pode entrar em contato comigo pelo [https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](loandrade53@gmail.com)
 
-
-Fique à vontade para explorar meus repositórios e contribuir, caso tenha interesse em colaborar em algum projeto. Espero que encontre algo útil por aqui!
 
 
 <!--
