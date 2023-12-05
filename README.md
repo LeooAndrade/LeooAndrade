@@ -5,18 +5,15 @@ Desenvolvedor back-end :mortar_board:
 
 Desenvolvimento de software - foco em back-end :mortar_board:
 
+## Linkedin:
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/l%C3%A9o-cardoso-de-andrade-814988251/) 
 
 
 ## Techs  :desktop_computer:
 
-
-[![My Skills](https://skillicons.dev/icons?i=html,js,nodejs,supabase,postgres,git,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,js,ts,nodejs,supabase,postgres,git,aws)](https://skillicons.dev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
-
-# Aprendendo a linguagem
-[![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
 
 
 ## Sobre mim: 
@@ -32,7 +29,7 @@ Desenvolvimento de software - foco em back-end :mortar_board:
 
 ## Como Entrar em Contato: 
 
-[:envelope_with_arrow:](loandrade53@gmail.com)
+[E-mail: Clique aqui](loandrade53@gmail.com)
 
 
 
