@@ -29,7 +29,7 @@ Desenvolvimento de software - foco em back-end :mortar_board:
 
 ## Como Entrar em Contato: 
 
-[E-mail: clique aqui!](loandrade53@gmail.com)
+[E-mail: clique aqui!]([loandrade53@gmail.com](https://mail.google.com/mail/u/0/#inbox))
 
 
 
